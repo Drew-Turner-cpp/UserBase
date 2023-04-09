@@ -250,7 +250,7 @@ class UserHandling
 
 class FileHandling
 {
-    public static string StoragePath = "C:\\Users\\Dtgoo\\source\\repos\\ConsoleApp1\\ConsoleApp1\\UserStorage.txt";
+    public static string StoragePath = "Your Directory to 'UserStorage.txt' here";
 
     public static void Store(User user)
     {
